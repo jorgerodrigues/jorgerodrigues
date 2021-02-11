@@ -13,9 +13,9 @@ These are the main tools in my toolbelt:
 
 ## Find me on the webs
 
-[*Blabbing on Twitter.](https://twitter.com/jorgelopes_r)  
-[*Writing thoughts on the blue blazer black.](https://blueblazerblack.com)  
-[*Looking sharp on Linkedin.](https://www.linkedin.com/in/jorgelopesr/)  
+[* Blabbing on Twitter.](https://twitter.com/jorgelopes_r)  
+[* Writing thoughts on the blue blazer black.](https://blueblazerblack.com)  
+[* Looking sharp on Linkedin.](https://www.linkedin.com/in/jorgelopesr/)  
 
 
 
