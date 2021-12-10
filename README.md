@@ -1,15 +1,15 @@
 # 👋 I am Jorge. 
 
-I am a full-stack (part-time) developer looking for transitioning into becoming a full-time developer. :)
+Mobile Developer.
 
 These are the main tools in my toolbelt:
 
 * JavaScript
+* TypeScript
+* React Native
 * NodeJS
 * ExpressJS
 * ReactJS
-* Redux
-* HTML/CSS
 
 ## Find me on the webs
 
