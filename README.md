@@ -14,7 +14,7 @@ These are the main tools in my toolbelt:
 ## Find me on the webs
 
 [* Blabbing on Twitter.](https://twitter.com/jorgelopes_r)  
-[* Writting here:](https://jorge.express)  
+[* Writting on jorge.express:](https://jorge.express)  
 [* Looking sharp on Linkedin.](https://www.linkedin.com/in/jorgelopesr/)  
 
 
