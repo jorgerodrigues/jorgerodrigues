@@ -1,6 +1,6 @@
 # 👋 I am Jorge. 
 
-Mobile Developer.
+Mobile Developer and frontend developer
 
 These are the main tools in my toolbelt:
 
