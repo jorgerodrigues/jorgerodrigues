@@ -1,10 +1,11 @@
 # 👋 I am Jorge. 
 
-Mobile Developer and frontend developer
+Full-stack engineer
 
 These are the main tools in my toolbelt:
 
 * JavaScript
+* Golang
 * TypeScript
 * React Native
 * NodeJS
